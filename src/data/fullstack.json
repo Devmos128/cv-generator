@@ -1,0 +1,78 @@
+{
+  "name": "Mohamed Hassan",
+  "title": "Software Engineer",
+
+  "contact": {
+    "phone": "+971501245598",
+    "email": "mohamedhas128@gmail.com",
+    "github": "github.com/Devmos128",
+    "linkedin": "linkedin.com/in/mohamed-hassan-81ab89204",
+    "location": "Abu Dhabi, UAE"
+  },
+
+  "summary": "Results-driven Full Stack Software Developer with 3+ years of experience building scalable web applications using Next.js and TypeScript for the frontend, and Node.js, Express, SQL, and MongoDB for the backend.",
+
+  "skills": [
+    {
+      "category": "Frontend",
+      "items": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "Redux Toolkit"
+      ]
+    },
+
+    {
+      "category": "Backend",
+      "items": [
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "PostgreSQL",
+        "REST APIs"
+      ]
+    },
+
+    {
+      "category": "Tools",
+      "items": [
+        "Git",
+        "Playwright",
+        "Cypress",
+        "Nx",
+        "Figma"
+      ]
+    }
+  ],
+
+  "experience": [
+    {
+      "role": "Full Stack Developer",
+      "company": "Cognifle",
+      "location": "Abu Dhabi, UAE",
+      "date": "07/2025 – Present",
+
+      "bullets": [
+        "Develop and maintain enterprise e-commerce dashboards using Next.js and Node.js.",
+        "Build reusable UI systems and backend business logic.",
+        "Develop RESTful APIs and MongoDB aggregation pipelines."
+      ]
+    }
+  ],
+
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "school": "Goldsmiths, University of London",
+      // "date": "04/2020 – 10/2023"
+    }
+  ],
+
+  "languages": [
+    "Arabic",
+    "English",
+    "Russian"
+  ]
+}
